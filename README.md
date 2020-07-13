@@ -6,7 +6,7 @@
 
 [**Ahmet KÖKEN**](https://github.com/ahmetkkn07)
 
-Kargo Takip Sistemi, Java ve Oracle veritabanı kullanılarak geliştirilmiş bir otomasyon projesidir.
+Kargo Takip Sistemi, Oracle veritabanı ve Java kullanılarak geliştirilmiş bir otomasyon projesidir.
 ## Kullanılan Teknolojiler
   - Java
   - Swing
