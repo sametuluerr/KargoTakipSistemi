@@ -1,1 +1,2 @@
-# KargoTakipSistemi
+# kts
+ Kargo Takip Sistemi
